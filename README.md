@@ -1,5 +1,6 @@
 # mundo-invertido
 Projeto desenvolvido para fins didáticos durante a semana front-end da DIO
+https://thekauej.github.io/mundo-invertido/
 
 ![image](https://user-images.githubusercontent.com/39250586/188440512-b67261dd-edcc-4dd0-8e7e-ef56f26b1bd5.png)
 ![image](https://user-images.githubusercontent.com/39250586/188440976-95613ae6-585d-4b75-89c6-376f7d3e05f9.png)
